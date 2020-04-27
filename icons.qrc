@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>back.png</file>
+    <file>audio-icon-music-icon-sound-icon-speaker-icon-volume-icon-logo-symbol-png-clip-art.png</file>
+    <file>forward.png</file>
+    <file>next.png</file>
+    <file>pause.png</file>
+    <file>play.png</file>
+    <file>prev.png</file>
+    <file>syop.png</file>
+  </qresource>
+</RCC>
